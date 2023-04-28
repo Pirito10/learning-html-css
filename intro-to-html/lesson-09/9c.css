@@ -1,0 +1,12 @@
+p {
+    font-family: Arial;
+}
+
+div {
+    border-color: rgb(150, 150, 150);
+    border-width: 1px;
+    border-style: solid;
+    width: 300px;
+    padding-left: 15px;
+    padding-bottom: 20px;
+}

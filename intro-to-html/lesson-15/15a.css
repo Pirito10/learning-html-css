@@ -1,0 +1,17 @@
+body {
+    height: 3000px;
+}
+
+button {
+    position: absolute;
+    top: 15px;
+    right: 15px;
+    font-family: Arial;
+    font-size: 20px;
+    background-color: black;
+    color: white;
+    padding: 8px;
+    width: 45px;
+    height: 45px;
+    border-radius: 25px;
+}
